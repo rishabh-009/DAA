@@ -1,4 +1,4 @@
-import dynamicintarray as dia
+import BiGraph.dynamicintarray as dia
 import numpy as np
 
 
